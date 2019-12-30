@@ -1,7 +1,7 @@
 LED Project
 ====
 
-Create a device driver to operate the Raspberry Pi GPIO.
+Create a device driver to operate the Raspberry Pi GPIO.  
 Use it to turn on the LED.
 
 ## Requirement
