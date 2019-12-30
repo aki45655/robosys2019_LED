@@ -6,10 +6,11 @@ Use it to turn on the LED.
 
 ## Requirement
 * Rasbery Pi 3 B+
-* Jump wire ×2
+* Jump wire (x2)
 * LED
 * Resistor(200~300Ω)
 ### Electoric circuit
+Pins use GPIO25 and Ground.
 ## Usage
 
 ## Demo
