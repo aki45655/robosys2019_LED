@@ -17,6 +17,11 @@ $make
 $sudo rmmod myled  
 $sudo insmod myled.ko  
 $sudo chmod 666 /dev/myled0  
+```  
+```
+$echo H > /dev/myled0    //turn on LED  
+$echo L > /dev/myled0    //turn off LED  
+$echo 1 > /dev/myled0    //blink LED  
 ```
 ## Demo
 
