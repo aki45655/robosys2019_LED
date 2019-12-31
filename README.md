@@ -3,6 +3,7 @@ LED Project
 
 Create a device driver to operate the Raspberry Pi GPIO.  
 Use it to turn on the LED.
+Blink LED at 0.1-0.9 second intervals.
 
 ## Requirement
 * Rasbery Pi 3 B+
