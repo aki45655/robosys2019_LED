@@ -19,11 +19,15 @@ $sudo rmmod myled
 $sudo insmod myled.ko  
 $sudo chmod 666 /dev/myled0  
 ```  
+<br>
+<br>
 Turn on and turn off LED
 ```
 $echo H > /dev/myled0    //turn on LED  
 $echo L > /dev/myled0    //turn off LED  
-```
+```  
+<br>
+<br>
 Blink LED 10 times at 0.1-0.9 second intervals
 ```
 $echo 1 > /dev/myled0    //blink LED 10 times at 0.1 second intervals  
