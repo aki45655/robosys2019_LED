@@ -12,12 +12,12 @@ Use it to turn on the LED.
 ### Electoric circuit
 Pins use GPIO25 and Ground.
 ## Usage
----
+```
 $make  
 $sudo rmmod myled  
 $sudo insmod myled.ko  
 $sudo chmod 666 /dev/myled0  
----
+```
 ## Demo
 
 ## Licence
