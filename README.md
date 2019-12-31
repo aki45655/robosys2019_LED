@@ -21,7 +21,12 @@ $sudo chmod 666 /dev/myled0
 ```
 $echo H > /dev/myled0    //turn on LED  
 $echo L > /dev/myled0    //turn off LED  
-$echo 1 > /dev/myled0    //blink LED  
+$echo 1 > /dev/myled0    //LED blinks 10 times at 0.1 second intervals  
+$echo 2 > /dev/myled0    //LED blinks 10 times at 0.2 second intervals  
+      ･  
+      ･　
+      ･　
+$echo 9 > /dev/myled0    //LED blinks 10 times at 0.9 second intervals       
 ```
 ## Demo
 
