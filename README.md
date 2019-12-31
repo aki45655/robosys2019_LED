@@ -11,6 +11,7 @@ Use it to turn on the LED.
 * Resistor(200~300Ω)
 ### Electoric circuit
 Pins use GPIO25 and Ground.
+![circuit](electric_circuit2.png)  
 ## Usage
 Preparation command
 ```
