@@ -39,6 +39,6 @@ $echo 9 > /dev/myled0    //blink LED 10 times at 0.9 second intervals
 https://youtu.be/hpsKJ90Ckdg 
 ## Licence
 
-[GNU](https://github.com/tcnksm/tool/blob/master/LICENCE)
+[GNU](https://github.com/aki45655/robosys2019_LED/blob/master/LICENSE)
 
 
