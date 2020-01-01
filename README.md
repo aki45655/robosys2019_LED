@@ -12,7 +12,7 @@ Blink LED at 0.1-0.9 second intervals.
 * Resistor(200~300Ω)
 ### Electoric circuit
 Pins use GPIO25 and Ground.
-![circuit](electric_circuit2.png)  
+![circuit](electric_circuit.png)  
 ## Usage
 Preparation command
 ```
